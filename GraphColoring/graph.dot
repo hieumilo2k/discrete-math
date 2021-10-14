@@ -1,0 +1,12 @@
+graph{
+1 [fillcolor=green, style=filled];
+2 [fillcolor=red, style=filled];
+3 [fillcolor=green, style=filled];
+4 [fillcolor=red, style=filled];
+5 [fillcolor=red, style=filled];
+1 -- 2;
+1 -- 4;
+1 -- 5;
+2 -- 3;
+3 -- 4;
+}

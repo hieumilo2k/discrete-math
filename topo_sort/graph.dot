@@ -1,0 +1,7 @@
+digraph{
+Class102 -> Class140 ;
+Class102 -> Class160 ;
+Class140 -> Class302 ;
+MATH300 -> Class311 ;
+Class302 -> Class311 ;
+}
